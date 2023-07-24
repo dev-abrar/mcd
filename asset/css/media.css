@@ -1,0 +1,3780 @@
+/*================= Extra large part start===================== */
+
+@media(min-width: 1400px) {
+  .light_dark {
+    margin-left: 35%;
+    margin-top: 30%;
+  }
+
+  .nav_form {
+    height: 45px;
+    margin-top: 0;
+  }
+
+  .nav_form button img {
+    max-width: 25px;
+  }
+
+  .nav_form input {
+    padding-left: 45px;
+    color: #7c7c7b;
+    font-size: 16px;
+  }
+
+  .last_mid_first::after {
+    height: 130px;
+  }
+
+  .last_mid_last::after {
+    height: 130px;
+  }
+
+  .banner_left .banner_text h1 {
+    font-size: 120px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-top: -33px;
+    font-size: 40px;
+  }
+
+  .app_link,
+  .banner_text {
+    padding-left: 50px;
+  }
+
+  .banner_mobile img {
+    max-width: 350px;
+  }
+
+  .banner_box .box_item h4 {
+    font-size: 14px;
+    font-family: var(--font_family1);
+  }
+
+  .banner_box {
+    width: 85%;
+  }
+
+  .banner_mobile {
+    position: absolute;
+    top: 70px;
+    right: -90px;
+  }
+
+  .dark_body .slider_item .bandark {
+    display: inline-block;
+    width: 400px;
+    margin-left: 25px !important;
+  }
+
+  .slider_item img {
+    max-width: 400px;
+    margin-top: 45px;
+  }
+
+  .app_link h5 {
+    margin-top: 30px;
+    font-size: 45px;
+  }
+}
+
+
+@media(min-width: 1200px) and (max-width: 1399px) {
+
+  .mcd_our_profile_icon_dtl_text2,
+  .mcd_our_profile_icon_dtl_text3,
+  .mcd_our_profile_icon_dtl_text4,
+  .mcd_our_profile_icon_dtl_text5,
+  .mcd_our_profile_icon_dtl_text6,
+  .mcd_our_profile_icon_dtl_text {
+    width: 700px;
+    padding: 20px 20px 20px 85px;
+  }
+
+  .mcd_our_profile_icon_dtl_text7,
+  .mcd_our_profile_icon_dtl_text8,
+  .mcd_our_profile_icon_dtl_text9,
+  .mcd_our_profile_icon_dtl_text11,
+  .mcd_our_profile_icon_dtl_text12,
+  .mcd_our_profile_icon_dtl_text13,
+  .mcd_our_profile_icon_dtl_text14,
+  .mcd_our_profile_icon_dtl_text10 {
+    width: 700px;
+    padding: 20px 20px 20px 90px;
+  }
+
+  .structure14 {
+    bottom: 5%;
+    right: 15%;
+  }
+
+  .structure13 {
+    bottom: 36%;
+    right: 4%;
+  }
+
+  .structure12 {
+    bottom: 46%;
+    right: 8%;
+  }
+
+  .structure10 {
+    bottom: 38%;
+    left: 78%;
+  }
+
+  .structure11 {
+    bottom: 52%;
+    right: 21%;
+  }
+
+  .structure9 {
+    bottom: 19%;
+    left: 65%;
+  }
+
+  .structure7 {
+    bottom: 48%;
+    left: 65%;
+  }
+
+  .structure8 {
+    bottom: 32%;
+    left: 61%;
+  }
+
+  .structure6 {
+    bottom: 29%;
+    left: 33%;
+  }
+
+  .structure5 {
+    bottom: 179px;
+    left: 45%;
+  }
+
+  .structure2 {
+    bottom: 199px;
+    left: 56px;
+  }
+
+  .structure3 {
+    bottom: 145px;
+    left: 36px;
+  }
+
+  .structure4 {
+    bottom: 102px;
+  }
+
+  .structure {
+    bottom: 53px;
+    left: 49px;
+  }
+
+  .mcd_our_profile_img img {
+    width: 820px;
+  }
+
+  .main_structure {
+    width: 920px;
+  }
+
+  .light_dark {
+    margin-left: 15%;
+    margin-top: 40%;
+  }
+
+  .nav_form {
+    height: 45px;
+    margin-top: 0;
+  }
+
+  .nav_form button img {
+    max-width: 25px;
+  }
+
+  .last_mid_first h5 {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .last_mid_scnd h5 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .last_mid_last h4 {
+    font-size: 14px;
+    margin-right: 10px;
+    line-height: 22px;
+  }
+
+  .navbar_ul li ul li a {
+    font-size: 12px;
+  }
+
+  .nav_form input {
+    padding-left: 45px;
+    color: #7c7c7b;
+    font-size: 16px;
+  }
+
+  .last_mid_last h5 {
+    font-size: 14px;
+  }
+
+  .last_mid_first::after {
+    height: 110px;
+  }
+
+  .last_mid_last::after {
+    height: 110px;
+  }
+
+
+  .banner_left .banner_text h1 {
+    font-size: 120px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-top: -33px;
+    font-size: 40px;
+  }
+
+  .app_link,
+  .banner_text {
+    padding-left: 50px;
+  }
+
+  .banner_mobile img {
+    max-width: 350px;
+  }
+
+
+  .banner_box .box_item h4 {
+    font-size: 14px;
+    font-family: var(--font_family1);
+  }
+
+  .banner_box {
+    margin-top: 30px;
+    width: 100%;
+  }
+
+  .banner_mobile {
+    position: absolute;
+    top: 70px;
+    right: -90px;
+  }
+
+  .dark_body .slider_item .bandark {
+    display: inline-block;
+    width: 400px;
+    margin-left: 25px !important;
+  }
+
+  .slider_item img {
+    max-width: 400px;
+    margin-top: 45px;
+  }
+
+  .app_link h5 {
+    margin-top: 30px;
+    font-size: 45px;
+  }
+
+  .side_fixed {
+    left: 1%;
+  }
+
+  .side_menu_left .side_login {
+    font-size: 14px;
+  }
+
+  .side_menu_main {
+    width: 85px;
+    padding: 40px 10px 10px 10px;
+  }
+
+  .side_show .side_menu_right {
+    margin-top: 70px;
+  }
+
+  .contact_back_img2 {
+    right: -48px;
+  }
+
+}
+
+
+/*================= Extra large part start===================== */
+
+/*================= Large part start===================== */
+
+@media(min-width: 992px) and (max-width: 1199px) {
+  
+  .ownership_menu_down_text ul li a {
+    font-size: 13px;
+  }
+
+  .accordion li .link {
+    font-size: 15px;
+  }
+
+  .mcd_our_profile_icon_dtl_text2,
+  .mcd_our_profile_icon_dtl_text3,
+  .mcd_our_profile_icon_dtl_text4,
+  .mcd_our_profile_icon_dtl_text5,
+  .mcd_our_profile_icon_dtl_text6,
+  .mcd_our_profile_icon_dtl_text {
+    width: 530px;
+    padding: 20px 20px 20px 85px;
+  }
+
+  .mcd_our_profile_icon_dtl_text7,
+  .mcd_our_profile_icon_dtl_text8,
+  .mcd_our_profile_icon_dtl_text9,
+  .mcd_our_profile_icon_dtl_text11,
+  .mcd_our_profile_icon_dtl_text12,
+  .mcd_our_profile_icon_dtl_text13,
+  .mcd_our_profile_icon_dtl_text14,
+  .mcd_our_profile_icon_dtl_text10 {
+    width: 530px;
+    padding: 20px 20px 20px 90px;
+  }
+
+  .structure14 {
+    bottom: 5%;
+    right: 15%;
+  }
+
+  .structure13 {
+    bottom: 36%;
+    right: 4%;
+  }
+
+  .structure12 {
+    bottom: 46%;
+    right: 8%;
+  }
+
+  .structure10 {
+    bottom: 38%;
+    left: 78%;
+  }
+
+  .structure11 {
+    bottom: 52%;
+    right: 21%;
+  }
+
+  .structure9 {
+    bottom: 19%;
+    left: 65%;
+  }
+
+  .structure7 {
+    bottom: 48%;
+    left: 65%;
+  }
+
+  .structure8 {
+    bottom: 32%;
+    left: 61%;
+  }
+
+  .structure6 {
+    bottom: 29%;
+    left: 33%;
+  }
+
+  .structure5 {
+    bottom: 179px;
+    left: 45%;
+  }
+
+  .structure2 {
+    bottom: 199px;
+    left: 56px;
+  }
+
+  .structure3 {
+    bottom: 145px;
+    left: 36px;
+  }
+
+  .structure4 {
+    bottom: 102px;
+  }
+
+  .structure {
+    bottom: 53px;
+    left: 49px;
+  }
+
+  .mcd_our_profile_img img {
+    width: 820px;
+  }
+
+  .main_structure {
+    width: 920px;
+  }
+
+  #mcd_our_profile {
+    padding: 50px;
+  }
+
+
+  .light_dark {
+    margin-left: 15%;
+    margin-top: 45%;
+  }
+
+  .light_dark {
+    margin-left: 15%;
+    margin-top: 40%;
+  }
+
+  .nav_form {
+    height: 45px;
+    margin-top: 0;
+  }
+
+  .nav_form button img {
+    max-width: 25px;
+  }
+
+  .last_mid_first h5 {
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .last_mid_scnd h5 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .last_mid_last h4 {
+    font-size: 14px;
+    margin-right: 10px;
+    line-height: 22px;
+  }
+
+  .nav_form input {
+    padding-left: 45px;
+    color: #7c7c7b;
+    font-size: 16px;
+  }
+
+  .last_mid_last h5 {
+    font-size: 14px;
+  }
+
+  .last_mid_first::after {
+    height: 110px;
+  }
+
+  .last_mid_last::after {
+    height: 110px;
+  }
+
+
+  .banner_left .banner_text h1 {
+    font-size: 120px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-top: -33px;
+    font-size: 40px;
+  }
+
+  .app_link {
+    padding-left: 0px;
+  }
+
+  .banner_mobile img {
+    max-width: 300px;
+  }
+
+  .app_img img {
+    max-width: 160px;
+  }
+
+  .banner_box .box_item h4 {
+    font-size: 13px;
+    font-family: var(--font_family1);
+  }
+
+  .banner_box .box_item h4 span {
+    display: block;
+    font-size: 10px;
+  }
+
+  .banner_box {
+    margin-top: 30px;
+    width: 100%;
+  }
+
+  .banner_box .box_item p {
+    font-size: 12px;
+  }
+
+  .banner_mobile {
+    position: absolute;
+    top: 70px;
+    right: -90px;
+  }
+
+  .dark_body .slider_item .bandark {
+    display: inline-block;
+    width: 300px;
+    margin-left: 25px !important;
+  }
+
+  .slider_item img {
+    max-width: 300px;
+    margin-top: 45px;
+  }
+
+  .banner_text {
+    padding-left: 35px;
+  }
+
+  .app_link h5 {
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 45px;
+  }
+
+  .navbar_ul li a {
+    font-size: 14px;
+    font-family: var(--font_family1);
+  }
+
+  .navbar_ul li ul {
+    width: 142%;
+  }
+
+  .navbar_ul li ul li a {
+    font-size: 14px;
+    padding: 15px 10px;
+  }
+
+  .banner_left .banner_text h1 {
+    font-size: 100px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-left: 20px;
+    margin-top: -28px;
+    font-size: 35px;
+  }
+
+  .invest_main .invest_text h3 {
+    font-size: 28px;
+  }
+
+  .invest_main .invest_text p {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .invest_main .invest_text a {
+    font-size: 13px;
+    width: 150px;
+    padding: 7px 0;
+    margin-right: 10px !important;
+  }
+
+  .ser_invest_text h3 {
+    font-size: 22px;
+  }
+
+  .ser_invest_text h3 img {
+    max-width: 60px;
+  }
+
+  .dark_body .ser_invest_text h3 {
+    font-size: 22px;
+  }
+
+  .mark_head h3 {
+    font-size: 28px;
+  }
+
+  .mark_item h3 {
+    font-size: 22px;
+    margin-left: 75px;
+  }
+
+  .mark_right h4 {
+    font-size: 14px;
+  }
+
+  .mark_right span {
+    margin-left: 78%;
+  }
+
+  .mark_item .mark_left h4 {
+    font-size: 14px;
+  }
+
+  .mark_item .mark_left h5 {
+    font-size: 14px;
+  }
+
+  .ipo_head h3 {
+    font-size: 28px;
+  }
+
+
+  .main_corporate .corporate_see_all {
+    font-size: 16px;
+    margin-left: 90%;
+  }
+
+  .cor_head h3 {
+    font-size: 28px;
+  }
+
+  .meet_item .meet_left h3,
+  .meet_item .meet_left h5 {
+    font-size: 14px;
+  }
+
+  .meet_item {
+    padding-left: 20px;
+  }
+
+  .major_text .maj_top h3 {
+    font-size: 14px;
+    padding: 25px 10px;
+    width: 170px;
+    margin-left: 0;
+  }
+
+  .mejor_investor {
+    padding: 25px 20px;
+  }
+
+  .major_text .maj_top h4 {
+    font-size: 14px;
+  }
+
+  .main_corporate .cor_table tr td {
+    font-size: 14px;
+    padding-left: 14px;
+  }
+
+  .main_corporate .cor_table tr th {
+    font-size: 15px;
+    padding: 0 10px;
+  }
+
+  .main_corporate .cor_table tr td:nth-child(4) a {
+    margin-left: 9%;
+  }
+
+  .major_text .maj_top h4 span {
+    font-size: 16px;
+  }
+
+  .mejor_investor .mejor_img {
+    bottom: -218px;
+    height: 400px;
+  }
+
+  .mejor_investor::after {
+    border-radius: 32px;
+  }
+
+  .major_text .maj_top a {
+    font-size: 16px;
+    width: 120px;
+    margin-left: 16%;
+  }
+
+  .side_fixed {
+    left: 1%;
+  }
+
+  .side_menu_left .side_login {
+    font-size: 14px;
+  }
+
+  .side_menu_main {
+    width: 85px;
+    padding: 40px 10px 10px 10px;
+  }
+
+  .side_show .side_menu_right {
+    margin-top: 70px;
+  }
+
+  #board_member .mem_bot img {
+    top: 0;
+    right: 0;
+  }
+
+  #about_us .ab_right .dark_bot {
+    right: 0;
+  }
+
+  #about_us .ab_right .light_bot {
+    right: 0;
+  }
+
+  #ceo_msg .ceo_msg_left h3 {
+    font-size: 28px;
+  }
+
+  #ceo_msg .ceo_msg_btm_left img {
+    max-width: 430px;
+  }
+
+  .dark_body #ceo_msg .ceo_msg_btm_left {
+    width: 430px;
+  }
+
+  .inv_search .ser_box input {
+    width: 70%;
+  }
+
+  .inv_search .ser_box button {
+    width: 30%;
+  }
+
+  .inv_detail_form p {
+    margin-left: 40%;
+  }
+
+  .req_num .req_left button {
+    width: 45%;
+  }
+
+  .req_num .req_left input {
+    width: 55%;
+  }
+
+  .req_num .pay_details img {
+    bottom: -60px;
+    right: 0;
+  }
+
+  .login_form {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    padding-right: 30px;
+    width: 55%;
+    height: 650px;
+  }
+
+  .regs_form {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    padding-right: 30px;
+    width: 55%;
+  }
+
+  .regs_form_btn button {
+    bottom: 28px;
+  }
+
+  .ip_app_details .sec_code {
+    right: 8px;
+  }
+
+  .dark_body #ip_page .ip_box .ip_text {
+    padding: 20px 15px;
+  }
+  #ip_page .ip_box .ip_text {
+    padding: 20px 15px;
+  }
+
+  #ip_page .ip_box .ip_text h4 {
+    font-size: 18px;
+  }
+
+  #ip_page .ip_box .ip_text a {
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  #law .law_item .law_img:hover {
+    transform: scale(1.1);
+  }
+
+  #law h4 {
+    font-size: 16px;
+  }
+
+  .law_right_top img {
+    right: 0;
+  }
+
+  .dark_body .ip_app_details label {
+    font-size: 13px;
+  }
+
+  .contact_back_img2 {
+    right: -48px;
+  }
+
+  .req_num a {
+    margin-left: 78%;
+  }
+
+  .contact_form .contact_group .contact_item .subject, .contact_form .contact_group .contact_item .mobile, .contact_form .contact_group .contact_item .email {
+    width: 360px;
+  }
+  .contact_form .contact_group .contact_item .message {
+    width: 535px;
+  }
+  .contact_form .contact_group .contact_item2 {
+    margin-right: 0;
+  }
+
+}
+
+/*================= Large part end===================== */
+
+/*================= Medium part start===================== */
+
+@media(min-width: 768px) and (max-width: 991px) {
+
+  .contact_form .contact_group .contact_item2 {
+    margin-right: 0;
+  }
+
+  .ownership_menu {
+    display: none;
+  }
+
+  .accordion li .link {
+    font-size: 15px;
+  }
+
+  .alll .structure,
+  .alll .structure2,
+  .alll .structure3,
+  .alll .structure4,
+  .alll .structure5,
+  .alll .structure6,
+  .alll .structure7,
+  .alll .structure8,
+  .alll .structure9,
+  .alll .structure10,
+  .alll .structure11,
+  .alll .structure12,
+  .alll .structure13,
+  .alll .structure14 {
+    display: none;
+  }
+
+  .mcd_our_profile_img img {
+    width: 650px;
+  }
+
+  #mcd_our_profile {
+    padding: 100px 0;
+  }
+
+  .mcd_our_profile_headr h4 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .mcd_our_profile_img {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .tariffs_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table .table_head {
+    width: 1000px;
+  }
+
+  .tariffs_table .tbody .body_all_item {
+    width: 1000px;
+  }
+
+  .definition_service .definition_service_text p {
+    width: 640px;
+  }
+
+  .nav_icon ul {
+    justify-content: end;
+  }
+
+  .side_menu_main {
+    display: none;
+  }
+
+  .light_dark {
+    margin-left: 0;
+    margin-top: 30px;
+    position: absolute;
+    top: -64px;
+    left: 25px;
+  }
+
+  .mid_left {
+    width: 100%;
+    margin-top: 100px;
+  }
+
+  .l_logo {
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 35px;
+  }
+
+  .dark_body .l_logo .dark_logo {
+    display: inline-block;
+    max-width: 400px;
+  }
+
+  .l_logo .light_logo {
+    display: inline-block;
+    max-width: 400px;
+  }
+
+  .nav_form {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }
+
+  .last_mid_first::after {
+    display: none;
+  }
+
+  .last_mid_first {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .dark_body .last_mid_first .dark_nav_eid {
+    display: inline-block;
+  }
+
+  .banner_left .banner_text h1 {
+    font-size: 100px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-left: 0px;
+    margin-top: -15px;
+    font-size: 35px;
+  }
+
+  .banner_box .box_diff p {
+    margin-top: 25px !important;
+  }
+
+  .banner_box .box_item h4 span {
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .app_link {
+    padding-left: 20px;
+    margin-top: 30px;
+  }
+
+  #banner .app_img {
+    margin-left: -20px;
+  }
+
+  .banner_mobile img {
+    max-width: 400px;
+    margin-top: 60px;
+  }
+
+  .banner_mobile {
+    position: absolute;
+    top: -10px;
+    right: 0;
+    z-index: -1;
+  }
+
+  .banner_box .box_item h4 span {
+    display: inline-block;
+    font-size: 11px;
+  }
+
+  .banner_box .box_item h4 {
+    font-size: 13px;
+  }
+
+  .dark_body #banner {
+    border-bottom: 0;
+  }
+
+  #banner {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .app_link h5 {
+    margin-top: -10px;
+    font-size: 24px;
+  }
+
+  .app_link .app_img a {
+    margin-top: 15px;
+    margin-left: 25px;
+  }
+
+  .banner_slider .slider_all_item {
+    border-left: 0;
+  }
+
+  /* ============= about area ============ */
+  .dark_body #about {
+    border-bottom: 0;
+  }
+
+  #about {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .about_text h3 {
+    font-size: 28px;
+  }
+
+  .about_more {
+    margin-left: 0;
+  }
+
+  /* ============= investor area ============ */
+  .dark_body #investor {
+    border-bottom: 0;
+  }
+
+  #investor {
+    padding: 30px 15px;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .invest_main .invest_text h3 {
+    font-size: 24px;
+  }
+
+  .invest_main .invest_text a {
+    width: 30% !important;
+    margin-right: 20px !important;
+  }
+
+  .invest_main .invest_text a {
+    width: 80%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .invest_main .invest_text {
+    padding: 20px 10px 10px;
+  }
+
+  #investor .invest_img img {
+    display: none;
+  }
+
+  .ser_inves_img img {
+    display: none;
+  }
+
+  #serch_investor {
+    border-bottom: 0;
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .dark_body #serch_investor {
+    border-bottom: 0;
+  }
+
+
+
+  .ser_invest_row {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 14px;
+  }
+
+  .ser_invest_text h3 {
+    font-size: 24px;
+  }
+
+  .ser_select {
+    margin-bottom: 20px;
+  }
+
+  .ser_invest_form button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 175px;
+  }
+
+  .ser_invest_form span {
+    bottom: 72px;
+    right: 8%;
+    transform: translateX(50%);
+  }
+
+  .dark_body .ser_invest_row {
+    padding-left: 10px;
+  }
+
+  .dark_body .ser_invest_text h3 {
+    font-size: 16px;
+  }
+
+  .dark_body #market {
+    border-bottom: 0;
+  }
+
+  #market {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .mark_main {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .mark_item h3 {
+    font-size: 20px;
+    margin-left: 0;
+  }
+
+  .mark_item .mark_left {
+    margin: 0 auto;
+  }
+
+  .mark_right {
+    padding: 15px 20px;
+    text-align: left;
+  }
+
+
+  .ipo_head h3 {
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .ipo_text {
+    text-align: center;
+  }
+
+  .ipo_last p {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+
+  .ipo_left {
+    text-align: center;
+  }
+
+  .dark_body #ipo {
+    border-bottom: 0;
+  }
+
+  #ipo {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .ipo_left .ipo_see a {
+    margin-top: 15px;
+  }
+
+  .dark_body #corporate {
+    border-bottom: 0;
+  }
+
+  #corporate {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .main_corporate {
+    padding: 10px;
+  }
+
+  .main_corporate .corporate_see_all {
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .main_corporate .cor_table tr td:nth-child(4) a {
+    margin-left: 0;
+  }
+
+  .cor_head h3 {
+    font-size: 24px;
+  }
+
+  #meeting {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .meet_main {
+    padding: 30px 20px 10px;
+  }
+
+  .meet_item .meet_left {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+  .dark_body .meet_item .dmeet_img {
+    display: inline-block;
+  }
+
+  .meet_item {
+    padding-left: 0;
+  }
+
+  .meet_item h4 {
+    margin-top: 10px;
+  }
+
+  .mejor_investor {
+    padding: 40px 10px;
+    margin-top: 30px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .major_text .maj_top h3 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mejor_investor .mejor_img {
+    display: none;
+  }
+
+  .major_text .maj_top a {
+    margin-left: auto;
+    margin-top: 40px;
+    margin-right: auto;
+  }
+
+  .mem_text h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .mem_slide {
+    padding: 30px 0;
+  }
+
+  .dark_body #member {
+    border-bottom: 0;
+  }
+
+  #member .next_arr {
+    right: -25px;
+  }
+
+  #member .prev_arr {
+    left: -25px;
+  }
+
+  #member {
+    border-bottom: 0;
+  }
+
+  #counter {
+    padding: 30px 0;
+  }
+
+  .count_item {
+    margin-bottom: 30px;
+  }
+
+  #footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+  }
+
+
+  .footer_app li a img {
+    margin-bottom: 40px;
+    margin-right: 30px;
+  }
+
+  .address_item ul li,
+  .address_item ul li a,
+  .usefull_link h4,
+  .usefull_link ul li a,
+  .footer_logo ul li a {
+    margin-bottom: 20px;
+  }
+
+  /* ================= about page ===================== */
+
+  .dark_body #about_us .ab_top {
+    border-bottom: 0;
+  }
+
+  #about_us .ab_top {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #about_us {
+    text-align: center;
+  }
+
+  #about_us h3 {
+    font-size: 27px;
+  }
+
+  #about_us .ab_left p {
+    padding-right: 0;
+    margin-bottom: 35px;
+  }
+
+  #about_us .ab_mid_text {
+    margin-left: 0;
+    margin-top: 0px;
+  }
+
+  #about_us .ab_right {
+    position: relative;
+    margin-top: 60px;
+  }
+
+  #about_us p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
+  #about_us .ab_right .dark_bot {
+    right: -25px;
+  }
+
+  #about_us .ab_right .light_bot {
+    right: -25px;
+  }
+
+  #about_us .ab_btm_img {
+    margin-top: 70px;
+  }
+
+  #about_us .ab_btm_img img {
+    margin-top: 50px;
+    margin-left: 0;
+  }
+
+  #board_member .mem_btm .mem_info .info_box {
+    left: -250px;
+    width: 260px;
+  }
+
+  #board_member .mem_btm .mem_info .info_box h6 {
+    font-size: 14px;
+  }
+
+  #board_member {
+    padding: 80px 0 100px;
+  }
+
+  /* ================= CEO Message ================ */
+  #ceo_msg {
+    padding: 50px 20px;
+  }
+
+  #ceo_msg .ceo_msg_left {
+    margin-left: 0;
+  }
+
+  #ceo_msg .ceo_msg_left h3 {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+
+  #ceo_msg .ceo_msg_left p {
+    font-size: 14px;
+    width: 100%;
+    line-height: 28px;
+  }
+
+  .ceo_msg_btm_left {
+    text-align: center;
+  }
+
+  .dark_body #ceo_msg .ceo_msg_btm_left {
+    border: 0;
+  }
+
+  #ceo_msg .ceo_msg_left .ceo_pera {
+    text-align: center;
+  }
+
+  .ceo_msg_main .ceo_bot {
+    display: none;
+  }
+
+  .dark_body #ceo_msg .ceo_msg_btm_left {
+    width: 100%;
+  }
+
+  .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  .dark_body .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  #ip_info .ip_top_info {
+    margin-bottom: 40px;
+  }
+
+  .dark_body .sel_invest {
+    border-bottom: 0;
+  }
+
+  .sel_invest {
+    text-align: center;
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  .det_inv_row {
+    padding: 20px;
+  }
+
+  .inv_detail_form p {
+    margin-left: 0;
+  }
+
+  .dark_body .inv_detail_row {
+    border-bottom: 0;
+  }
+
+  .inv_detail_row {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #share_invest {
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  #share_invest h3 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+
+  .dark_body .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_right label {
+    border-right: 0;
+    text-align: left;
+  }
+
+  .dark_body .req_num .req_right label {
+    border-right: 0;
+  }
+
+  .req_num .req_left {
+    margin-bottom: 25px;
+  }
+
+  .req_num .pay_details {
+    padding: 20px 20px;
+  }
+
+  .ip_right {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .ip_right img {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .sel_invest .darkomr {
+    max-width: 100px;
+  }
+
+  .sel_invest .lightomr {
+    max-width: 100px;
+  }
+
+  #share_invest .lightshare {
+    max-width: 100px;
+  }
+
+  .dark_body #share_invest .darkshare {
+    display: inline-block;
+    max-width: 100px;
+  }
+
+  .req_num .pay_details .form_group p {
+    font-size: 14px;
+    margin-left: 10;
+  }
+
+  .req_num .pay_details img {
+    display: none;
+  }
+
+  .dark_body .req_num .pay_details .darkbot {
+    display: none;
+  }
+
+  .req_num a {
+    margin-left: 85%;
+  }
+
+  .dark_body .sel_invest .darkomr {
+    display: inline-block;
+  }
+
+  #future_plane h3 {
+    font-size: 22px;
+  }
+
+  #future_plane {
+    padding: 40px 0;
+  }
+
+  .year_box {
+    padding: 40px 20px;
+    margin-bottom: 40px;
+  }
+
+  .plan_right {
+    height: auto;
+  }
+
+  .plan_right img {
+    display: none;
+  }
+
+  .dark_body .plan_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_left h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+  .ip_select {
+    margin-top: 40px !important;
+  }
+
+  .ip_app_details {
+    padding: 40px 20px;
+  }
+
+  .ip_app_details .sec_code {
+    right: -185px;
+  }
+
+  #ip_info .ap_det {
+    margin-top: 40px;
+    margin-left: 0;
+  }
+
+  .ip_ap_img {
+    margin-top: 60px;
+  }
+
+  .law_item {
+    margin-bottom: 60px;
+  }
+
+  #law {
+    padding: 80px 0 0;
+  }
+
+  .ip_ap_img img {
+    display: block;
+  }
+
+  .dark_body #ip_info .ip_ap_img .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_ap_img .light_bot {
+    display: none;
+  }
+
+  #ip_info .submit {
+    margin-left: 40px;
+  }
+
+  .dark_body #ip_info .ip_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_right .dark_bot,
+  #ip_info .ip_right .light_bot {
+    display: none;
+  }
+
+  .ip_app_details input {
+    margin-bottom: 25px;
+  }
+
+  #ip_page .ip_left h3 {
+    font-size: 28px;
+    margin-top: 0;
+  }
+
+  #ip_page .ip_right .dark_bot,
+  #ip_page .ip_right .light_bot {
+    display: none;
+  }
+
+  .dark_body #ip_page .ip_right .dark_bot {
+    display: none;
+  }
+
+  #law {
+    text-align: center;
+  }
+
+  .law_right_top {
+    display: none;
+  }
+
+  .otp_app_section a {
+    margin-left: 5% !important;
+  }
+
+  #service {
+    padding: 100px 0 20px;
+    text-align: center;
+  }
+
+  #service .ser_left h5 {
+    padding-right: 0;
+  }
+
+  #service .ser_left .last_head {
+    width: 100%;
+  }
+
+  #service .ser_left ul .last_list {
+    width: 100%;
+  }
+
+  #service .ser_main .bot_img {
+    display: none;
+  }
+
+  .definition_service .definition_service_text p {
+    width: 640px;
+  }
+
+  /* login */
+
+  .login_form {
+    top: 50%;
+    height: 100vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 0 0 0 0;
+    overflow: scroll;
+  }
+
+  .regs_form .form_head_text h2,
+  .login_form .form_head_text h2 {
+    font-size: 24px;
+  }
+
+  .regs_form .off_login_btn,
+  .login_form .off_login_btn {
+    right: 22px;
+    top: 11px;
+  }
+
+  .regs_form {
+    width: 100%;
+    height: 100vh;
+    top: 50%;
+    padding-left: 8px;
+    overflow: scroll;
+  }
+
+  .form_group_nd {
+    flex-wrap: wrap;
+  }
+
+  .form_group_nd .group_item select {
+    padding: 10px;
+  }
+
+  .regs_form_btn button {
+    position: absolute;
+    right: 5px;
+    bottom: -85px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    color: #202020;
+    font-family: var(--font_family1);
+    font-size: 18px;
+    font-weight: 500;
+    background: #ffff;
+  }
+
+  /* login */
+
+}
+
+/*================= Medium part end===================== */
+
+/*================= small part start===================== */
+
+@media(min-width: 576px) and (max-width: 767px) {
+
+  .ownership_menu {
+    display: none;
+  }
+
+  .accordion li .link {
+    font-size: 11px;
+  }
+
+  .alll .structure,
+  .alll .structure2,
+  .alll .structure3,
+  .alll .structure4,
+  .alll .structure5,
+  .alll .structure6,
+  .alll .structure7,
+  .alll .structure8,
+  .alll .structure9,
+  .alll .structure10,
+  .alll .structure11,
+  .alll .structure12,
+  .alll .structure13,
+  .alll .structure14 {
+    display: none;
+  }
+
+  .mcd_our_profile_img img {
+    width: 520px;
+  }
+
+  #mcd_our_profile {
+    padding: 100px 0;
+  }
+
+  .mcd_our_profile_headr h4 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .mcd_our_profile_img {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .main_ownership_percentage_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table .table_head {
+    width: 1000px;
+  }
+
+  .tariffs_table .tbody .body_all_item {
+    width: 1000px;
+  }
+
+  .definition_service .definition_service_text p {
+    width: 457px;
+  }
+
+  .faq_headr a img {
+    max-width: 450px;
+    height: 450px;
+    object-fit: contain;
+  }
+
+  .contact_form .contact_group .contact_item .subject,
+  .contact_form .contact_group .contact_item .mobile,
+  .contact_form .contact_group .contact_item .email {
+    width: 340px;
+  }
+
+  .contact_form .contact_group .contact_item .message {
+    width: 500px;
+  }
+
+  .contact_form .contact_group .contact_item2 {
+    margin-right: 0px;
+  }
+
+
+  .nav_icon ul {
+    justify-content: end;
+  }
+
+  .side_menu_main {
+    display: none;
+  }
+
+  .light_dark {
+    margin-left: 0;
+    margin-top: 30px;
+    position: absolute;
+    top: -64px;
+    left: 25px;
+  }
+
+  .l_logo {
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 35px;
+  }
+
+  .dark_body .l_logo .dark_logo {
+    display: inline-block;
+    max-width: 400px;
+  }
+
+  .l_logo .light_logo {
+    display: inline-block;
+    max-width: 400px;
+  }
+
+  .nav_form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .last_mid_first::after {
+    display: none;
+  }
+
+  .last_mid_first {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .dark_body .last_mid_first .dark_nav_eid {
+    display: inline-block;
+  }
+
+  .banner_left .banner_text h1 {
+    font-size: 100px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-left: 0px;
+    margin-top: -15px;
+    font-size: 35px;
+  }
+
+  .app_link,
+  .banner_text {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .banner_box .box_item {
+    width: 48%;
+    margin-bottom: 30px;
+    height: 100px;
+  }
+
+  .banner_box {
+    margin-top: 30px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .banner_box .box_diff p {
+    margin-top: 5px !important;
+  }
+
+  .banner_box .box_item h4 span {
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .banner_mobile img {
+    display: none;
+  }
+
+  .dark_body #banner {
+    border-bottom: 0;
+  }
+
+  #banner {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .app_link h5 {
+    margin-top: -10px;
+    font-size: 24px;
+  }
+
+  .app_link .app_img a {
+    margin-top: 15px;
+    margin-left: 25px;
+  }
+
+  .banner_slider .slider_all_item {
+    border-left: 0;
+  }
+
+  /* ============= about area ============ */
+  .dark_body #about {
+    border-bottom: 0;
+  }
+
+  #about {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .about_text h3 {
+    font-size: 28px;
+  }
+
+  .about_more {
+    margin-left: 0;
+  }
+
+  /* ============= investor area ============ */
+  .dark_body #investor {
+    border-bottom: 0;
+  }
+
+  #investor {
+    padding: 30px 15px;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .invest_main .invest_text h3 {
+    font-size: 24px;
+  }
+
+  .invest_main .invest_text a {
+    width: 80%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .invest_main .invest_text {
+    padding: 20px 10px 10px;
+  }
+
+  #investor .invest_img img {
+    display: none;
+  }
+
+  .ser_inves_img img {
+    display: none;
+  }
+
+  #serch_investor {
+    border-bottom: 0;
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .dark_body #serch_investor {
+    border-bottom: 0;
+  }
+
+  .ser_invest_text h3 img {
+    max-width: 45px;
+  }
+
+  .ser_invest_row {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 14px;
+  }
+
+  .ser_invest_text h3 {
+    font-size: 24px;
+  }
+
+  .ser_select {
+    margin-bottom: 20px;
+  }
+
+  .ser_invest_form button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .ser_invest_form span {
+    bottom: 72px;
+    right: 50%;
+    color: #3b3b3b;
+    font-size: 30px;
+    transform: translateX(50%);
+  }
+
+  .dark_body .ser_invest_row {
+    padding-left: 10px;
+  }
+
+  .dark_body .ser_invest_text h3 {
+    font-size: 16px;
+  }
+
+  .dark_body #market {
+    border-bottom: 0;
+  }
+
+  #market {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .mark_main {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .mark_item h3 {
+    font-size: 20px;
+    margin-left: 0;
+  }
+
+  .mark_item .mark_left {
+    margin: 0 auto;
+  }
+
+  .mark_right {
+    padding: 15px 20px;
+    margin-top: 30px;
+  }
+
+  .mark_right span {
+    margin-left: 0;
+  }
+
+  .ipo_head h3 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .ipo_text {
+    text-align: center;
+  }
+
+  .ipo_last p {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+
+  .ipo_first h4 {
+    margin-top: 20px;
+  }
+
+  .ipo_left {
+    text-align: center;
+  }
+
+  .dark_body #ipo {
+    border-bottom: 0;
+  }
+
+  #ipo {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .ipo_left .ipo_see a {
+    margin-top: 15px;
+  }
+
+  .dark_body #corporate {
+    border-bottom: 0;
+  }
+
+  #corporate {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .main_corporate {
+    padding: 10px;
+  }
+
+  .main_corporate .corporate_see_all {
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .main_corporate .cor_table tr td:nth-child(4) a {
+    margin-left: 0;
+  }
+
+  .cor_head h3 {
+    font-size: 24px;
+  }
+
+  #meeting {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .meet_main {
+    padding: 30px 20px 10px;
+  }
+
+  .meet_item .meet_left {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+  .dark_body .meet_item .dmeet_img {
+    display: inline-block;
+  }
+
+  .meet_item {
+    padding-left: 0;
+  }
+
+  .meet_item h4 {
+    margin-top: 10px;
+  }
+
+  .mejor_investor {
+    padding: 40px 10px;
+    margin-top: 30px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .major_text .maj_top h3 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mejor_investor .mejor_img {
+    display: none;
+  }
+
+  .major_text .maj_top a {
+    margin-left: auto;
+    margin-top: 40px;
+    margin-right: auto;
+  }
+
+  .mem_text h3 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .mem_slide {
+    padding: 30px 0;
+  }
+
+  .dark_body #member {
+    border-bottom: 0;
+  }
+
+  #member .next_arr {
+    right: 0%;
+  }
+
+  #member .prev_arr {
+    left: 0px;
+  }
+
+  #member {
+    border-bottom: 0;
+  }
+
+  #counter {
+    padding: 30px 0;
+  }
+
+  .count_item {
+    margin-bottom: 30px;
+  }
+
+  #footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+  }
+
+
+  .footer_app li a img {
+    margin-bottom: 40px;
+    margin-right: 30px;
+  }
+
+  .address_item ul li,
+  .address_item ul li a,
+  .usefull_link h4,
+  .usefull_link ul li a,
+  .footer_logo ul li a {
+    margin-bottom: 20px;
+  }
+
+  /* ================= about page ===================== */
+
+  .dark_body #about_us .ab_top {
+    border-bottom: 0;
+  }
+
+  #about_us .ab_top {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #about_us {
+    text-align: center;
+  }
+
+  #about_us h3 {
+    font-size: 27px;
+  }
+
+  #about_us .ab_left p {
+    padding-right: 0;
+    margin-bottom: 35px;
+  }
+
+  #about_us .ab_right {
+    display: none;
+  }
+
+  #about_us .ab_mid_text {
+    margin-left: 0;
+    margin-top: 60px;
+  }
+
+  #about_us .ab_btm_img img {
+    margin-top: 50px;
+    margin-left: 0;
+  }
+
+  #board_member .mem_btm .mem_info .info_box {
+    left: -250px;
+    width: 260px;
+  }
+
+  #board_member .mem_btm .mem_info .info_box h6 {
+    font-size: 14px;
+  }
+
+  #board_member {
+    padding: 80px 0 100px;
+  }
+
+  /* ================= CEO Message ================ */
+  #ceo_msg {
+    padding: 50px 20px;
+  }
+
+  #ceo_msg .ceo_msg_left {
+    margin-left: 0;
+  }
+
+  #ceo_msg .ceo_msg_left h3 {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+
+  #ceo_msg .ceo_msg_left p {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  #ceo_msg .ceo_msg_left .ceo_pera {
+    text-align: center;
+  }
+
+  .ceo_msg_main .ceo_bot {
+    display: none;
+  }
+
+  .dark_body #ceo_msg .ceo_msg_btm_left {
+    width: 100%;
+  }
+
+  #ip_info .btn-secondary {
+    width: 100%;
+  }
+
+  #ip_info .dropdown-toggle::after {
+    margin-left: 10px;
+  }
+
+  .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  .dark_body .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  #ip_info .ip_top_info {
+    margin-bottom: 40px;
+  }
+
+  .dark_body .sel_invest {
+    border-bottom: 0;
+  }
+
+  .sel_invest {
+    text-align: center;
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  .inv_search .ser_box button {
+    width: 40%;
+  }
+
+  .inv_search .ser_box input {
+    width: 60%;
+  }
+
+  .det_inv_row {
+    padding: 20px;
+  }
+
+  .inv_detail_form p {
+    margin-left: 0;
+  }
+
+  .dark_body .inv_detail_row {
+    border-bottom: 0;
+  }
+
+  .inv_detail_row {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #share_invest {
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  #share_invest h3 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+
+  .req_num .req_left button {
+    width: 75%;
+  }
+
+  .dark_body .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_right label {
+    border-right: 0;
+  }
+
+  .dark_body .req_num .req_right label {
+    border-right: 0;
+  }
+
+  .req_num .req_left {
+    margin-bottom: 25px;
+  }
+
+  .req_num .pay_details {
+    padding: 20px 20px;
+  }
+
+  .ip_right {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .ip_right img {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .sel_invest .darkomr {
+    max-width: 100px;
+  }
+
+  .sel_invest .lightomr {
+    max-width: 100px;
+  }
+
+  #share_invest .lightshare {
+    max-width: 100px;
+  }
+
+  .dark_body #share_invest .darkshare {
+    display: inline-block;
+    max-width: 100px;
+  }
+
+  .req_num .pay_details .form_group p {
+    font-size: 14px;
+    margin-left: 10;
+  }
+
+  .req_num .pay_details img {
+    display: none;
+  }
+
+  .dark_body .req_num .pay_details .darkbot {
+    display: none;
+  }
+
+  .req_num a {
+    margin-left: 0;
+  }
+
+  .dark_body .sel_invest .darkomr {
+    display: inline-block;
+  }
+
+  #future_plane h3 {
+    font-size: 22px;
+  }
+
+  #future_plane {
+    padding: 40px 0;
+  }
+
+  .year_box {
+    padding: 40px 20px;
+    margin-bottom: 40px;
+  }
+
+  .plan_right {
+    height: auto;
+  }
+
+  .plan_right img {
+    display: none;
+  }
+
+  .dark_body .plan_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_left h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+  .ip_select {
+    margin-top: 40px !important;
+  }
+
+  .ip_app_details {
+    padding: 40px 20px;
+  }
+
+  .ip_app_details .sec_code {
+    right: -50px;
+  }
+
+  #ip_info .ap_det {
+    margin-top: 40px;
+    margin-left: 0;
+  }
+
+  .ip_ap_img {
+    margin-top: 60px;
+  }
+
+  .law_item {
+    margin-bottom: 60px;
+  }
+
+  #law {
+    padding: 80px 0 0;
+  }
+
+  .ip_ap_img img {
+    display: block;
+  }
+
+  .dark_body #ip_info .ip_ap_img .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_ap_img .light_bot {
+    display: none;
+  }
+
+  #ip_info .submit {
+    margin-left: 40px;
+  }
+
+  .dark_body #ip_info .ip_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_right .dark_bot,
+  #ip_info .ip_right .light_bot {
+    display: none;
+  }
+
+  .ip_app_details input {
+    margin-bottom: 25px;
+  }
+
+  #ip_page .ip_left h3 {
+    font-size: 28px;
+    margin-top: 0;
+  }
+
+  #ip_page .ip_right .dark_bot,
+  #ip_page .ip_right .light_bot {
+    display: none;
+  }
+
+  .dark_body #ip_page .ip_right .dark_bot {
+    display: none;
+  }
+
+  #law {
+    text-align: center;
+  }
+
+  .law_right_top {
+    display: none;
+  }
+
+  .otp_app_section a {
+    margin-left: 5% !important;
+  }
+
+  #service {
+    padding: 100px 0 20px;
+    text-align: center;
+  }
+
+  #service .ser_left h5 {
+    padding-right: 0;
+  }
+
+  #service .ser_left .last_head {
+    width: 100%;
+  }
+
+  #service .ser_left ul .last_list {
+    width: 100%;
+  }
+
+  .tariffs_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table .table_head {
+    width: 1000px;
+  }
+
+  .tariffs_table .tbody .body_all_item {
+    width: 1000px;
+  }
+
+
+  /* login */
+
+  .login_form {
+    top: 50%;
+    height: 100vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 0 0 0 0;
+    overflow: scroll;
+  }
+
+  .regs_form .form_head_text h2,
+  .login_form .form_head_text h2 {
+    font-size: 24px;
+  }
+
+  .regs_form .off_login_btn,
+  .login_form .off_login_btn {
+    right: 22px;
+    top: 11px;
+  }
+
+  .regs_form {
+    width: 100%;
+    height: 100vh;
+    top: 50%;
+    padding-left: 8px;
+    overflow: scroll;
+  }
+
+  .form_group_nd {
+    flex-wrap: wrap;
+  }
+
+  .form_group_nd .group_item select {
+    padding: 10px;
+  }
+
+  .regs_form_btn button {
+    position: absolute;
+    right: 5px;
+    bottom: -85px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    color: #202020;
+    font-family: var(--font_family1);
+    font-size: 18px;
+    font-weight: 500;
+    background: #ffff;
+  }
+
+  /* login */
+
+
+}
+
+/*================= small part end===================== */
+
+/*================= X-small part start================== */
+
+@media(max-width:575.99px) {
+  /*======================== top nav part start================== */
+
+  .ownership_menu {
+    display: none;
+  }
+
+  .main_ownership_percentage_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table {
+    overflow: scroll;
+  }
+
+  .tariffs_table .table_head {
+    width: 1000px;
+  }
+
+  .tariffs_table .tbody .body_all_item {
+    width: 1000px;
+  }
+
+  .nav_icon ul {
+    justify-content: end;
+  }
+
+  .side_menu_main {
+    display: none;
+  }
+
+  .light_dark {
+    margin-left: 0;
+    margin-top: 30px;
+    position: absolute;
+    top: -64px;
+    left: 25px;
+  }
+
+  .l_logo {
+    margin-top: 80px;
+  }
+
+  .nav_form {
+    height: 50px;
+    margin-top: 30px;
+  }
+
+  .last_mid_first::after {
+    display: none;
+  }
+
+  .last_mid_first {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .dark_body .last_mid_first .dark_nav_eid {
+    display: inline-block;
+  }
+
+  .banner_left .banner_text h1 {
+    font-size: 80px;
+  }
+
+  .banner_left .banner_text h2 {
+    margin-left: 0px;
+    margin-top: -15px;
+    font-size: 30px;
+  }
+
+  .app_link,
+  .banner_text {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  #market .mar_btn a {
+    margin-left: 0;
+  }
+  .banner_box .box_item {
+    width: 100%;
+    margin-bottom: 30px;
+    height: 100px;
+  }
+  .usefull_link {
+    margin-bottom: 25px;
+  }
+
+  #footer .just_ul {
+    position: static;
+  }
+  .banner_box {
+    margin-top: 30px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .banner_box .box_diff p {
+    margin-top: 5px !important;
+  }
+
+  .banner_box .box_item h4 span {
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .banner_mobile img {
+    display: none;
+  }
+
+  .dark_body #banner {
+    border-bottom: 0;
+  }
+
+  #banner {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .app_link h5 {
+    margin-top: -10px;
+    font-size: 24px;
+  }
+
+  .app_link .app_img a {
+    margin-top: 15px;
+    margin-left: 25px;
+  }
+
+  .banner_slider .slider_all_item {
+    border-left: 0;
+  }
+
+  /* ============= about area ============ */
+  .dark_body #about {
+    border-bottom: 0;
+  }
+
+  #about {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .about_text h3 {
+    font-size: 28px;
+  }
+
+  .about_more {
+    margin-left: 0;
+  }
+
+  /* ============= investor area ============ */
+  .dark_body #investor {
+    border-bottom: 0;
+  }
+
+  #investor {
+    padding: 30px 15px;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .invest_main .invest_text h3 {
+    font-size: 24px;
+  }
+
+  .invest_main .invest_text a {
+    width: 80%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .invest_main .invest_text {
+    padding: 20px 10px 10px;
+  }
+
+  #investor .invest_img img {
+    display: none;
+  }
+
+  .ser_inves_img img {
+    display: none;
+  }
+
+  #serch_investor {
+    border-bottom: 0;
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .dark_body #serch_investor {
+    border-bottom: 0;
+  }
+
+  .ser_invest_text h3 img {
+    max-width: 25px;
+  }
+
+  .ser_invest_row {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 14px;
+  }
+
+  .ser_invest_text h3 {
+    font-size: 16px;
+  }
+
+  .ser_select {
+    margin-bottom: 20px;
+  }
+
+  .ser_invest_form button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .ser_invest_form span {
+    bottom: 72px;
+    right: 50%;
+    color: #3b3b3b;
+    font-size: 30px;
+    transform: translateX(50%);
+  }
+
+  .dark_body .ser_invest_row {
+    padding-left: 10px;
+  }
+
+  .dark_body .ser_invest_text h3 {
+    font-size: 16px;
+  }
+
+  .dark_body #market {
+    border-bottom: 0;
+  }
+
+  #market {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .mark_main {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .mark_item h3 {
+    font-size: 20px;
+    margin-left: 0;
+  }
+
+  .mark_item .mark_left {
+    margin: 0 auto;
+  }
+
+  .mark_right {
+    padding: 15px 20px;
+    margin-top: 30px;
+  }
+
+  .mark_right span {
+    margin-left: 0;
+  }
+
+  .ipo_head h3 {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .ipo_text {
+    text-align: center;
+  }
+
+  .ipo_last p {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+
+  .ipo_first h4 {
+    margin-top: 20px;
+  }
+
+  .ipo_left {
+    text-align: center;
+  }
+
+  .dark_body #ipo {
+    border-bottom: 0;
+  }
+
+  #ipo {
+    padding: 30px 0;
+    border-bottom: 0;
+  }
+
+  .ipo_left .ipo_see a {
+    margin-top: 15px;
+  }
+
+  .dark_body #corporate {
+    border-bottom: 0;
+  }
+
+  #corporate {
+    padding: 30px 0;
+    border-bottom: 0;
+    text-align: center;
+  }
+
+  .main_corporate {
+    padding: 10px;
+  }
+
+  .main_corporate .corporate_see_all {
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .main_corporate .cor_table tr td:nth-child(4) a {
+    margin-left: 0;
+  }
+
+  .cor_head h3 {
+    font-size: 19px;
+  }
+
+  #meeting {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .meet_main {
+    padding: 30px 20px 10px;
+  }
+
+  .meet_item .meet_left {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+  .dark_body .meet_item .dmeet_img {
+    display: inline-block;
+  }
+
+  .meet_item {
+    padding-left: 0;
+  }
+
+  .meet_item h4 {
+    margin-top: 10px;
+  }
+
+  .mejor_investor {
+    padding: 40px 10px;
+    margin-top: 30px;
+  }
+
+  .major_text .maj_top h3 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mejor_investor .mejor_img {
+    display: none;
+  }
+
+  .major_text .maj_top a {
+    margin-left: auto;
+    margin-top: 40px;
+    margin-right: auto;
+  }
+
+  .mem_text h3 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .mem_slide {
+    padding: 30px 0;
+  }
+
+  .dark_body #member {
+    border-bottom: 0;
+  }
+
+  #member {
+    border-bottom: 0;
+  }
+
+  #counter {
+    padding: 30px 0;
+  }
+
+  .count_item {
+    margin-bottom: 30px;
+  }
+
+  #footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+  }
+
+  .footer_app {
+    display: flex;
+  }
+
+  .footer_app li a img {
+    max-width: 120px;
+    margin-bottom: 40px;
+    margin-right: 30px;
+  }
+
+  .address_item ul li,
+  .address_item ul li a,
+  .usefull_link h4,
+  .usefull_link ul li a,
+  .footer_logo ul li a {
+    margin-bottom: 20px;
+  }
+
+  /* ================= about page ===================== */
+
+  .dark_body #about_us .ab_top {
+    border-bottom: 0;
+  }
+
+  #about_us .ab_top {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #about_us {
+    text-align: center;
+  }
+
+  #about_us h3 {
+    font-size: 27px;
+  }
+
+  #about_us .ab_left p {
+    padding-right: 0;
+    margin-bottom: 35px;
+  }
+
+  #about_us .ab_right {
+    display: none;
+  }
+
+  #about_us .ab_mid_text {
+    margin-left: 0;
+    margin-top: 60px;
+  }
+
+  #about_us .ab_btm_img img {
+    margin-top: 50px;
+    margin-left: 0;
+  }
+
+  #board_member .mem_btm .mem_info .info_box {
+    left: -260px;
+    width: 260px;
+  }
+
+  #board_member .mem_btm .mem_info .info_box h6 {
+    font-size: 14px;
+  }
+
+  #board_member {
+    padding: 80px 0 100px;
+  }
+
+  /* ================= CEO Message ================ */
+  #ceo_msg {
+    padding: 50px 20px;
+  }
+
+  #ceo_msg .ceo_msg_left {
+    margin-left: 0;
+  }
+
+  #ceo_msg .ceo_msg_left h3 {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+
+  #ceo_msg .ceo_msg_left p {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  #ceo_msg .ceo_msg_left .ceo_pera {
+    text-align: center;
+  }
+
+  .ceo_msg_main .ceo_bot {
+    display: none;
+  }
+
+  .dark_body #ceo_msg .ceo_msg_btm_left {
+    width: 100%;
+  }
+
+  #ip_info .btn-secondary {
+    width: 100%;
+  }
+
+  #ip_info .dropdown-toggle::after {
+    margin-left: 10px;
+  }
+
+  .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  .dark_body .ip_info_row_first {
+    padding-bottom: 40px;
+    border-bottom: 0;
+  }
+
+  #ip_info .ip_top_info {
+    margin-bottom: 40px;
+  }
+
+  .dark_body .sel_invest {
+    border-bottom: 0;
+  }
+
+  .sel_invest {
+    text-align: center;
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  .inv_search .ser_box button {
+    width: 40%;
+  }
+
+  .inv_search .ser_box input {
+    width: 60%;
+  }
+
+  .det_inv_row {
+    padding: 20px;
+  }
+
+  .inv_detail_form p {
+    margin-left: 0;
+  }
+
+  .dark_body .inv_detail_row {
+    border-bottom: 0;
+  }
+
+  .inv_detail_row {
+    padding: 40px 0;
+    border-bottom: 0;
+  }
+
+  #share_invest {
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  #share_invest h3 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+
+  .req_num .req_left button {
+    width: 75%;
+  }
+
+  .dark_body .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_left input {
+    border-right: 0;
+  }
+
+  .req_num .req_right label {
+    border-right: 0;
+  }
+
+  .dark_body .req_num .req_right label {
+    border-right: 0;
+  }
+
+  .req_num .req_left {
+    margin-bottom: 25px;
+  }
+
+  .req_num .pay_details {
+    padding: 20px 20px;
+  }
+
+  .ip_right {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .ip_right img {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .sel_invest .darkomr {
+    max-width: 100px;
+  }
+
+  .sel_invest .lightomr {
+    max-width: 100px;
+  }
+
+  #share_invest .lightshare {
+    max-width: 100px;
+  }
+
+  .dark_body #share_invest .darkshare {
+    display: inline-block;
+    max-width: 100px;
+  }
+
+  .req_num .pay_details .form_group p {
+    font-size: 14px;
+    margin-left: 10;
+  }
+
+  .req_num .pay_details img {
+    display: none;
+  }
+
+  .dark_body .req_num .pay_details .darkbot {
+    display: none;
+  }
+
+  .req_num a {
+    margin-left: 0;
+  }
+
+  .dark_body .sel_invest .darkomr {
+    display: inline-block;
+  }
+
+  #future_plane h3 {
+    font-size: 22px;
+  }
+
+  #future_plane {
+    padding: 40px 0;
+  }
+
+  .year_box {
+    padding: 40px 20px;
+    margin-bottom: 40px;
+  }
+
+  .plan_right {
+    height: auto;
+  }
+
+  .plan_right img {
+    display: none;
+  }
+
+  .dark_body .plan_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_left h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+  .ip_select {
+    margin-top: 40px !important;
+  }
+
+  .ip_app_details {
+    padding: 40px 20px;
+  }
+
+  .ip_app_details .sec_code {
+    right: -10px;
+  }
+
+  #ip_info .ap_det {
+    margin-top: 40px;
+    margin-left: 0;
+  }
+
+  .ip_ap_img {
+    margin-top: 60px;
+  }
+
+  .ip_ap_img img {
+    display: block;
+  }
+
+  .dark_body #ip_info .ip_ap_img .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_ap_img .light_bot {
+    display: none;
+  }
+
+  #ip_info .submit {
+    margin-left: 40px;
+  }
+
+  .dark_body #ip_info .ip_right .dark_bot {
+    display: none;
+  }
+
+  #ip_info .ip_right .dark_bot,
+  #ip_info .ip_right .light_bot {
+    display: none;
+  }
+
+  .ip_app_details input {
+    margin-bottom: 25px;
+  }
+
+  #ip_page .ip_left h3 {
+    font-size: 28px;
+    margin-top: 0;
+  }
+
+  #ip_page .ip_right .dark_bot,
+  #ip_page .ip_right .light_bot {
+    display: none;
+  }
+
+  .dark_body #ip_page .ip_right .dark_bot {
+    display: none;
+  }
+
+  #law {
+    text-align: center;
+  }
+
+  .law_right_top {
+    display: none;
+  }
+
+  .otp_app_section a {
+    margin-left: 5% !important;
+  }
+
+  #service {
+    padding: 100px 0 20px;
+    text-align: center;
+  }
+
+  #service .ser_left h5 {
+    padding-right: 0;
+  }
+
+  #service .ser_right {
+    width: 100%;
+  }
+
+  #service .ser_left .last_head {
+    width: 100%;
+  }
+
+  #service .ser_left ul .last_list {
+    width: 100%;
+  }
+
+  .side_menu_main {
+    display: none;
+  }
+
+
+  /* login */
+
+  .login_form {
+    top: 50%;
+    height: 100vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 0 0 0 0;
+    overflow: scroll;
+  }
+
+  .regs_form .form_head_text h2,
+  .login_form .form_head_text h2 {
+    font-size: 24px;
+  }
+
+  .regs_form .off_login_btn,
+  .login_form .off_login_btn {
+    right: 22px;
+    top: 11px;
+  }
+
+  .regs_form {
+    width: 100%;
+    height: 100vh;
+    top: 50%;
+    padding-left: 8px;
+    overflow: scroll;
+  }
+
+  .form_group_nd {
+    flex-wrap: wrap;
+  }
+
+  .form_group_nd .group_item select {
+    padding: 10px;
+  }
+
+  .regs_form_btn button {
+    position: absolute;
+    right: 5px;
+    bottom: -85px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    color: #202020;
+    font-family: var(--font_family1);
+    font-size: 18px;
+    font-weight: 500;
+    background: #ffff;
+  }
+
+  /* login */
+
+  /* ==================Contact part start================= */
+
+  .contact_all_item .contact_head p {
+    font-size: 27px;
+  }
+
+  .contact_all_item .contact_head ul {
+    flex-wrap: wrap;
+  }
+
+  .contact_all_item .contact_head ul li a {
+    margin-top: 19px;
+  }
+
+  .contact_form form .contact_group2 {
+    flex-wrap: wrap;
+  }
+
+  .contact_form .contact_group .contact_item .subject,
+  .contact_form .contact_group .contact_item .mobile,
+  .contact_form .contact_group .contact_item .email {
+    width: 278px;
+    margin-bottom: 20px;
+  }
+
+  .contact_form .contact_group .contact_item .name {
+    width: 278px;
+    margin-bottom: 20px;
+  }
+
+  .contact_form .contact_group .contact_item .message {
+    width: 278px;
+  }
+
+  .contact_form .contact_group .contact_item .request {
+    width: 278px;
+  }
+
+  .contact_group .contact_item2 .code_send {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact_group .contact_item2 .code_send .code {
+    margin-right: 81px;
+    flex-wrap: wrap;
+  }
+
+  .contact_form .contact_group .contact_item2 button {
+    margin-right: 62px;
+  }
+
+  .contact_form .contact_group .contact_item2 label,
+  .contact_form .contact_group .contact_item label {
+    margin-right: 31px;
+  }
+
+  /* ==================Contact part end================= */
+
+  /* =================corporate_action part start======= */
+
+  .ownership_menu ul .ownership_menu_down {
+    display: none;
+  }
+
+  .ownership_menu ul li a img {
+    max-width: 38px;
+    height: 38px;
+  }
+
+  .ownership_menu ul li a:hover span {
+    display: none;
+  }
+
+  .ownership_percentage_headr h2 {
+    font-size: 26px;
+  }
+
+  .ownership_percentage_table .select {
+    width: 50%;
+  }
+
+  .select_type_and_export {
+    align-items: baseline;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .select_type_and_export .export_btn {
+    margin-top: 20px;
+  }
+
+  .ownership_percentage_pagination ul {
+    flex-wrap: wrap;
+  }
+
+  .ownership_percentage_pagination ul li a {
+    margin-top: 5px;
+  }
+
+  /* =================corporate_action part end======= */
+
+  /* =================faq part start======= */
+
+  .faq_headr a img {
+    max-width: 300px;
+    height: 300px;
+    object-fit: contain;
+  }
+
+  .faq_headr h2 {
+    font-size: 37px;
+  }
+
+  .from_to form .btn_group button {
+    margin-top: 111px;
+  }
+
+  .from_to form .from_group .from_input #TotxtDate,
+  .from_to form .from_group .from_input #txtDate {
+    width: 85%;
+  }
+
+  #ui-datepicker-div {
+    width: 284px;
+  }
+
+  .from_to .from_input {
+    width: 278px;
+  }
+
+  .ui-datepicker .ui-datepicker-header {
+    padding: 0px;
+  }
+
+  .ui-datepicker select.ui-datepicker-month,
+  .ui-datepicker select.ui-datepicker-year {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .accordion li .li2 {
+    line-height: 20px;
+    height: 75px;
+    font-size: 13px;
+    padding-top: 8px;
+  }
+
+  .accordion li .t-down {
+    display: none;
+  }
+
+  .accordion li .link::after {
+    display: none;
+  }
+
+  .faq_box2 {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .accor .accordion .submenu .anual_reports_dwn::after {
+    display: none;
+  }
+
+  .definition_service .definition_service_text p {
+    width: 200px;
+    text-align: center;
+  }
+
+  .accordion li .link {
+    font-size: 15px;
+  }
+
+  .accordion .submenu .required_documents_item ul li a {
+    padding: 5px;
+  }
+
+  .investor_account_headr h2 {
+    font-size: 33px;
+  }
+
+  /* =================faq part part end======= */
+
+
+  .alll .structure,
+  .alll .structure2,
+  .alll .structure3,
+  .alll .structure4,
+  .alll .structure5,
+  .alll .structure6,
+  .alll .structure7,
+  .alll .structure8,
+  .alll .structure9,
+  .alll .structure10,
+  .alll .structure11,
+  .alll .structure12,
+  .alll .structure13,
+  .alll .structure14 {
+    display: none;
+  }
+
+  .mcd_our_profile_img img {
+    width: 300px;
+  }
+
+  #mcd_our_profile {
+    padding: 100px 0;
+  }
+
+  .mcd_our_profile_headr h4 {
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .mcd_our_profile_img {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .main_ownership_percentage_table table{
+    width: 500px;
+  }
+
+  .main_ownership_percentage_table table tbody tr td span .user_dtl_box {
+    overflow: scroll;
+  }
+
+  .main_ownership_percentage_table table tbody tr td span .user_dtl_box .user_dtl_box2{
+    width: 850px;
+  }
+
+}
+
+/*======================== top nav part end================== */
+
+
+/*================= X-small part end===================== */
