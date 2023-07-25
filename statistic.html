@@ -823,6 +823,31 @@
             $('.ownership_menu').toggleClass('own_text');
         });
         // statistic part end========================
+        
+  // dark theme
+  $(document).ready(function () {
+    if (localStorage.getItem("colorSwapState") == "swap") {
+      $('body').addClass('dark_body');
+    }
+
+    $('.d_box').click(function () {
+      if (localStorage.getItem("colorSwapState") == "swap") {
+        localStorage.removeItem("colorSwapState");
+      } else {
+        localStorage.setItem("colorSwapState", "swap");
+      }
+
+      $('body').toggleClass('dark_body');
+    });
+
+
+    $('.nav_off').on('click', function () {
+      $('.side_menu_main').toggleClass('side_show');
+    });
+
+
+  })
+
     </script>
 
     <!--======================= script link part end ================================ -->
